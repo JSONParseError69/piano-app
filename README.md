@@ -17,7 +17,7 @@ Welcome to the Piano App, a simple and interactive web-based piano. This app all
 
 ```bash
 Copy code
-git clone https://github.com/your-username/piano-app.git
+git clone https://github.com/JSONParseError69/piano-app
 cd piano-app
 ```
 
